@@ -1,0 +1,9 @@
+{
+  "domain": "hass_cf",
+  "version": "0.0.1",
+  "name": "Hass CF",
+  "documentation": "https://github.com/daviswieck/hass_cf",
+  "dependencies": [],
+  "codeowners": ["@gopherdave"],
+  "requirements": ["pynhl==0.2.2"] #needtochange
+}
