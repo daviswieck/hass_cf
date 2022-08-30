@@ -5,5 +5,5 @@
   "documentation": "https://github.com/daviswieck/hass_cf",
   "dependencies": [],
   "codeowners": ["@gopherdave"],
-  "requirements": [arrow==1.2.2]
+  "requirements": ["arrow==1.2.2"]
 }
